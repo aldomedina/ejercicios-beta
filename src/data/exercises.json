@@ -1,0 +1,314 @@
+[
+  {
+    "id": 1,
+    "name": "flexiones - cerrado tricep",
+    "arms": 2,
+    "legs": 0,
+    "cardio": 0,
+    "abs": 0
+  },
+  {
+    "id": 2,
+    "name": "flexiones - abiertos pectorales",
+    "arms": 2,
+    "legs": 0,
+    "cardio": 0,
+    "abs": 0
+  },
+  {
+    "id": 3,
+    "name": "flexiones - triceps brazos al sillón",
+    "arms": 2,
+    "legs": 0,
+    "cardio": 0,
+    "abs": 0
+  },
+  {
+    "id": 4,
+    "name": "flexiones - triceps c/ banda elástica",
+    "arms": 2,
+    "legs": 0,
+    "cardio": 0,
+    "abs": 0
+  },
+  {
+    "id": 5,
+    "name": "banda en la barra",
+    "arms": 2,
+    "legs": 0,
+    "cardio": 0,
+    "abs": 0
+  },
+  {
+    "id": 6,
+    "name": "banda bicep (parado sobrel la banda)",
+    "arms": 2,
+    "legs": 0,
+    "cardio": 0,
+    "abs": 0
+  },
+  {
+    "id": 7,
+    "name": "remo",
+    "arms": 2,
+    "legs": 0,
+    "cardio": 0,
+    "abs": 0
+  },
+  {
+    "id": 8,
+    "name": "remo abierto",
+    "arms": 2,
+    "legs": 0,
+    "cardio": 0,
+    "abs": 0
+  },
+  {
+    "id": 9,
+    "name": "parado sobre la banda y volar",
+    "arms": 2,
+    "legs": 0,
+    "cardio": 0,
+    "abs": 0
+  },
+  {
+    "id": 10,
+    "name": "barra. abierto",
+    "arms": 2,
+    "legs": 0,
+    "cardio": 0,
+    "abs": 0
+  },
+  {
+    "id": 11,
+    "name": "barra cerrado",
+    "arms": 2,
+    "legs": 0,
+    "cardio": 0,
+    "abs": 0
+  },
+  {
+    "id": 12,
+    "name": "barra con banda pa la mañu (o con un piso)",
+    "arms": 2,
+    "legs": 0,
+    "cardio": 0,
+    "abs": 0
+  },
+  {
+    "id": 13,
+    "name": "barra plus",
+    "arms": 2,
+    "legs": 0,
+    "cardio": 0,
+    "abs": 0
+  },
+  {
+    "id": 14,
+    "name": "sentadillas",
+    "arms": 0,
+    "legs": 2,
+    "cardio": 0,
+    "abs": 0
+  },
+  {
+    "id": 15,
+    "name": "sentadillas con saltos",
+    "arms": 0,
+    "legs": 2,
+    "cardio": 0,
+    "abs": 0
+  },
+  {
+    "id": 16,
+    "name": "estocada",
+    "arms": 0,
+    "legs": 2,
+    "cardio": 0,
+    "abs": 0
+  },
+  {
+    "id": 17,
+    "name": "estocada con pata en el sillon",
+    "arms": 0,
+    "legs": 2,
+    "cardio": 0,
+    "abs": 0
+  },
+  {
+    "id": 18,
+    "name": "estocada con salto y pie cambiado",
+    "arms": 0,
+    "legs": 2,
+    "cardio": 0,
+    "abs": 0
+  },
+  {
+    "id": 19,
+    "name": "puntillas con uno y otro pie",
+    "arms": 0,
+    "legs": 2,
+    "cardio": 0,
+    "abs": 0
+  },
+  {
+    "id": 20,
+    "name": "cangrejo",
+    "arms": 0,
+    "legs": 2,
+    "cardio": 0,
+    "abs": 0
+  },
+  {
+    "id": 21,
+    "name": "acostado de espalda y levantar la raja",
+    "arms": 0,
+    "legs": 0,
+    "cardio": 0,
+    "abs": 2
+  },
+  {
+    "id": 22,
+    "name": "con una pierna arriba",
+    "arms": 0,
+    "legs": 0,
+    "cardio": 0,
+    "abs": 2
+  },
+  {
+    "id": 23,
+    "name": "barra abs kg de peso",
+    "arms": 0,
+    "legs": 0,
+    "cardio": 0,
+    "abs": 2
+  },
+  {
+    "id": 24,
+    "name": "abdominal corto",
+    "arms": 0,
+    "legs": 0,
+    "cardio": 0,
+    "abs": 2
+  },
+  {
+    "id": 25,
+    "name": "abdominales cortos con los pies levantados",
+    "arms": 0,
+    "legs": 0,
+    "cardio": 0,
+    "abs": 2
+  },
+  {
+    "id": 26,
+    "name": "abdominales cortos ",
+    "arms": 0,
+    "legs": 0,
+    "cardio": 0,
+    "abs": 2
+  },
+  {
+    "id": 27,
+    "name": "abdominales cortos con peso",
+    "arms": 0,
+    "legs": 0,
+    "cardio": 0,
+    "abs": 2
+  },
+  {
+    "id": 28,
+    "name": "abdominales piernas juntas",
+    "arms": 0,
+    "legs": 0,
+    "cardio": 0,
+    "abs": 2
+  },
+  {
+    "id": 29,
+    "name": "abdominales piernas con peso",
+    "arms": 0,
+    "legs": 0,
+    "cardio": 0,
+    "abs": 2
+  },
+  {
+    "id": 30,
+    "name": "abdominales - lado a lado y mantener",
+    "arms": 0,
+    "legs": 0,
+    "cardio": 0,
+    "abs": 2
+  },
+  {
+    "id": 31,
+    "name": "abdominales adelante y atras",
+    "arms": 0,
+    "legs": 0,
+    "cardio": 0,
+    "abs": 2
+  },
+  {
+    "id": 32,
+    "name": "plancha",
+    "arms": 0,
+    "legs": 0,
+    "cardio": 0,
+    "abs": 2
+  },
+  {
+    "id": 33,
+    "name": "plancha con pie levantado",
+    "arms": 0,
+    "legs": 0,
+    "cardio": 0,
+    "abs": 2
+  },
+  {
+    "id": 34,
+    "name": "plancha con punteo al aire",
+    "arms": 0,
+    "legs": 0,
+    "cardio": 0,
+    "abs": 2
+  },
+  {
+    "id": 35,
+    "name": "mountain climbers",
+    "arms": 0,
+    "legs": 0,
+    "cardio": 2,
+    "abs": 0
+  },
+  {
+    "id": 36,
+    "name": "burpees",
+    "arms": 0,
+    "legs": 0,
+    "cardio": 2,
+    "abs": 0
+  },
+  {
+    "id": 37,
+    "name": "burpee con flexion o salto",
+    "arms": 0,
+    "legs": 0,
+    "cardio": 2,
+    "abs": 0
+  },
+  {
+    "id": 38,
+    "name": "Momias",
+    "arms": 0,
+    "legs": 0,
+    "cardio": 2,
+    "abs": 0
+  },
+  {
+    "id": 39,
+    "name": "Jumping jacks",
+    "arms": 0,
+    "legs": 0,
+    "cardio": 2,
+    "abs": 0
+  }
+]
